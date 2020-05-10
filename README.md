@@ -1,0 +1,2 @@
+# kit-programmieren-final2
+Second final project for KIT Programmieren WS 2019/20, which is about a card game. The goal of the game is to survive on a desert island and eventually escape from it. To do this, the player draws a card and collects resources with which he can build items that protect him from his enemies or enable him to escape from the island. In addition to the 64 playing cards, three dice (4, 6, and 8-sided) are used in different phases of the game.
